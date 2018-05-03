@@ -1,0 +1,4 @@
+[15-Apr-2018 10:35:02 America/New_York] PHP Warning:  require_once(../sql_connector.php): failed to open stream: No such file or directory in /home/wildnqhi/sqstraining.tech/features/addressdisplay_0.php on line 9
+[15-Apr-2018 10:35:02 America/New_York] PHP Fatal error:  require_once(): Failed opening required '../sql_connector.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/wildnqhi/sqstraining.tech/features/addressdisplay_0.php on line 9
+[15-Apr-2018 10:35:02 America/New_York] PHP Warning:  require_once(../sql_connector.php): failed to open stream: No such file or directory in /home/wildnqhi/sqstraining.tech/features/addressdisplay_0.php on line 9
+[15-Apr-2018 10:35:02 America/New_York] PHP Fatal error:  require_once(): Failed opening required '../sql_connector.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/wildnqhi/sqstraining.tech/features/addressdisplay_0.php on line 9
