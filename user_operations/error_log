@@ -1,0 +1,5 @@
+[18-Apr-2018 15:17:42 America/New_York] PHP Warning:  include_once(../sql_connector.php): failed to open stream: No such file or directory in /home/wildnqhi/sqstraining.tech/features/features_loader.php on line 16
+[18-Apr-2018 15:17:42 America/New_York] PHP Warning:  include_once(): Failed opening '../sql_connector.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/wildnqhi/sqstraining.tech/features/features_loader.php on line 16
+[18-Apr-2018 15:17:42 America/New_York] PHP Notice:  Undefined index: areacode in /home/wildnqhi/sqstraining.tech/user_operations/add_phone.php on line 27
+[18-Apr-2018 15:17:42 America/New_York] PHP Notice:  Undefined index: numberpart1 in /home/wildnqhi/sqstraining.tech/user_operations/add_phone.php on line 28
+[18-Apr-2018 15:17:42 America/New_York] PHP Notice:  Undefined index: numberpart2 in /home/wildnqhi/sqstraining.tech/user_operations/add_phone.php on line 29
