@@ -1,0 +1,22 @@
+These instructions will advise you on how to add customer features to the website all by uploading a PHP file.
+
+1. Navigate to the Feature page (Admin Drop down, then Features or /user_features.php)
+
+  Here you will be able to see the available features. These are the features that are available to be changed and targeted
+
+2. Select a feature and, using the download icon, download the PHP file that is running that feature.
+
+3. Change the downloaded PHP file to the customized way you want the new feature to run
+
+   This is where you change the PHP to display/function the way you want the feature to display/function
+
+4. After the PHP file is finished, Click the Add Feature button at the top of the page. This will bring you to a pop to fill in the feature information
+
+   This is where you will give your feature a name (Recommended to use current naming convention), give a description of how the feature changes the page,
+   Upload the PHP you just finished editing and give the feature a Target.
+
+      Target: The place where this feature will show. So if you are creating a feature to changed the way the Name Display works then you would want to target 'namedisplay'
+
+5. Click the Add feature button on the Popup
+
+6. Now you can add this feature to a User or Group of your liking
